@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning application that predicts restaurant food waste, identifies the factors influencing waste predictions, and recommends an optimized food preparation quantity to help reduce unnecessary food waste.
 
-🔗 **Live Demo:** https://smart-food-waste-intelligence-lsjeeeudpxfyqkc6utwt.streamlit.app/
+🔗 **Live Demo:** https://smart-food-waste-intelligence-ljsejeeudpxpfyqkc6utwt.streamlit.app/
 
 🔗 **GitHub Repository:** https://github.com/Ashutosh-dutta07/Smart-Food-Waste-Intelligence
 
@@ -576,7 +576,7 @@ The project is deployed using **Streamlit Community Cloud**.
 
 🔗 **Live Application:**
 
-https://smart-food-waste-intelligence-lsjeeeudpxfyqkc6utwt.streamlit.app/
+https://smart-food-waste-intelligence-ljsejeeudpxpfyqkc6utwt.streamlit.app/
 
 The deployed application allows users to interact with the food-waste prediction and recommendation system directly through a web browser.
 
